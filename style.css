@@ -1,7 +1,8 @@
 body {
-  background-image: url("v=gt.png");
+  background-image: url('v=gt.png');
   text-align: center;
-  opacity: 75%;
+  opacity: 0.75;
+  font-family: Georgia;
 }
 span {
   background-color: green;
@@ -10,4 +11,7 @@ span {
 #start {
   color: red; 
   border: solid black 1px;
+}
+p:hover {
+  color: orange;
 }

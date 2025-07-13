@@ -1,7 +1,13 @@
 body {
-  background-color: red;
+  background-image: url("v=gt.png");
   text-align: center;
+  zoom: 100%;
 }
-#1 {
-  color: green;
+span {
+  background-color: green;
+  font-weight: bold;
+}
+#start {
+  color: red; 
+  border: solid black 1px;
 }

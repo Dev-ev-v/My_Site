@@ -3,7 +3,6 @@ body {
   background-repeat: no-repeat; 
   background-size: cover; 
   text-align: center;
-  text-align: center;
   opacity: 0.75;
   font-family: Georgia;
 }
@@ -15,6 +14,6 @@ span {
   color: red; 
   border: solid black 1px;
 }
-p:hover {
-  color: orange;
+*:hover {
+  color: rgb(0, 0, 255);
 }

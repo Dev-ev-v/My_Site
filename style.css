@@ -1,19 +1,13 @@
 body {
-  background-image: url('v=gt.png');
-  background-repeat: no-repeat; 
-  background-size: cover; 
   text-align: center;
-  opacity: 0.75;
-  font-family: Georgia;
+background-color: rgb(255, 0, 255);
 }
-span {
-  background-color: green;
-  font-weight: bold;
+table {
+  background-color: rgb(255, 0, 0);
 }
-#start {
-  color: red; 
-  border: solid black 1px;
+td {
+  color: rgb(0, 255, 0);
 }
-*:hover {
-  color: rgb(0, 0, 255);
+table, tr, th, td {
+  border: 1px solid black;
 }
